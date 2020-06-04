@@ -1,0 +1,23 @@
+{
+  "name": "ipapi-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msaaddev/IP-API-Test-TDC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msaaddev/IP-API-Test-TDC/issues"
+  },
+  "homepage": "https://github.com/msaaddev/IP-API-Test-TDC#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
